@@ -1,0 +1,35 @@
+{
+  "overview": {
+    "$step": 0
+  },
+  "inventory": {
+    "$step": 66
+  },
+  "editor": {
+    "$step": 128
+  },
+  "conversation": {
+    "$step": 195
+  },
+  "context": {
+    "$step": 254
+  },
+  "review": {
+    "$step": 300
+  },
+  "plugins": {
+    "$step": 346
+  },
+  "plugin_review": {
+    "$step": 406
+  },
+  "discover": {
+    "$step": 453
+  },
+  "search": {
+    "$step": 505
+  },
+  "history": {
+    "$step": 551
+  }
+}

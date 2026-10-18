@@ -1,0 +1,2 @@
+{"id":1,"method":"engine.execute","params":{"command":"view.zoomAt","params":{"x":0,"y":0,"width":1360,"height":880}}}
+{"id":2,"method":"document.inspect","params":{"depth":1,"allPages":true}}

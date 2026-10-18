@@ -1,0 +1,1 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><OutputType>Exe</OutputType></PropertyGroup><ItemGroup><ProjectReference Include="../../src/Metapod.Core/Metapod.Core.csproj" /><ProjectReference Include="../../src/Metapod.Infrastructure/Metapod.Infrastructure.csproj" /><ProjectReference Include="../../src/Metapod.Claude/Metapod.Claude.csproj" /></ItemGroup></Project>

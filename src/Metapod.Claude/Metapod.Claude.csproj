@@ -1,0 +1,1 @@
+<Project Sdk="Microsoft.NET.Sdk"><ItemGroup><ProjectReference Include="../Metapod.Core/Metapod.Core.csproj" /></ItemGroup></Project>

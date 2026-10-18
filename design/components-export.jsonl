@@ -1,0 +1,3 @@
+{"id":1,"method":"engine.execute","params":{"command":"file.export","params":{"scale":1,"path":"C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\components-01.png","format":"png","ids":[633]}}}
+{"id":2,"method":"engine.execute","params":{"command":"file.export","params":{"scale":1,"path":"C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\components-02.png","format":"png","ids":[691]}}}
+{"id":3,"method":"engine.execute","params":{"command":"file.export","params":{"scale":1,"path":"C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\components-03.png","format":"png","ids":[752]}}}

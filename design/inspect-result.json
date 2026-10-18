@@ -1,0 +1,754 @@
+[
+  {
+    "id": 1,
+    "ok": true,
+    "result": {
+      "colorProfile": "srgb",
+      "currentPage": 1,
+      "dirty": false,
+      "history": {
+        "redo": 0,
+        "undo": [
+          "Telas de catálogo no padrão do produto",
+          "Corrigir esboço do catálogo"
+        ]
+      },
+      "images": 0,
+      "name": "Harness Helper · Telas e fluxos",
+      "pages": [
+        {
+          "background": "#1E1E1E",
+          "children": [
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 0.0
+              },
+              "childCount": 11,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 2,
+              "name": "01 · Um projeto mais claro. Um agente mais útil.",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 0.0
+              },
+              "childCount": 9,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 68,
+              "name": "02 · Agentes, skills e instruções",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 0.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 130,
+              "name": "03 · Editar com intenção",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 980.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 197,
+              "name": "04 · Pense junto com o assistente",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 980.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 256,
+              "name": "05 · O que o assistente pode consultar",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 980.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 302,
+              "name": "06 · Revise antes de aplicar",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 1960.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 348,
+              "name": "07 · Plugins com origem e escopo claros",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 1960.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 1960.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 408,
+              "name": "08 · Confirme a operação do plugin",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 1960.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 1960.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 455,
+              "name": "09 · Ferramentas que resolvem um problema",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 1960.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 2940.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 507,
+              "name": "10 · Pesquisa de ferramentas",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 2940.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 2940.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 553,
+              "name": "11 · Histórico e recuperação",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 2940.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 2940.0
+              },
+              "childCount": 16,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#142C36",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 597,
+              "name": "12 · Fluxos e estados",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 2940.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 0.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 806,
+              "name": "17 · Catálogo instalado e descoberta",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 0.0
+              },
+              "childCount": 1,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#1E1E1E",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 817,
+              "name": "18 · Modal de detalhes do item",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 980.0
+              },
+              "childCount": 2,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 824,
+              "name": "19 · Ficha gerada e revisão",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 3920.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 836,
+              "name": "13 · Catálogo instalado e descoberta",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 3920.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 3920.0
+              },
+              "childCount": 2,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 850,
+              "name": "14 · Detalhe do catálogo",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 3920.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 3920.0
+              },
+              "childCount": 3,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 859,
+              "name": "15 · Ficha e revisão do catálogo",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 3920.0
+            }
+          ],
+          "flows": [
+            {
+              "description": "",
+              "name": "Diagnosticar → revisar → aplicar",
+              "start": 2
+            },
+            {
+              "description": "",
+              "name": "Plugin → revisão → resultado",
+              "start": 348
+            }
+          ],
+          "id": 1,
+          "name": "01 · Produto / protótipo",
+          "type": "PAGE"
+        },
+        {
+          "background": "#1E1E1E",
+          "children": [
+            {
+              "absoluteBounds": {
+                "height": 1000.0,
+                "width": 1440.0,
+                "x": 0.0,
+                "y": 0.0
+              },
+              "boundVariables": {
+                "fill": "VariableID:1"
+              },
+              "childCount": 57,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 1000.0,
+              "id": 633,
+              "name": "01 / Fundamentos",
+              "type": "FRAME",
+              "width": 1440.0,
+              "x": 0.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 1160.0,
+                "width": 1440.0,
+                "x": 1540.0,
+                "y": 0.0
+              },
+              "boundVariables": {
+                "fill": "VariableID:1"
+              },
+              "childCount": 34,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 1160.0,
+              "id": 691,
+              "name": "02 / Controles e estados",
+              "type": "FRAME",
+              "width": 1440.0,
+              "x": 1540.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 1130.0,
+                "width": 1440.0,
+                "x": 3080.0,
+                "y": 0.0
+              },
+              "boundVariables": {
+                "fill": "VariableID:1"
+              },
+              "childCount": 11,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 1130.0,
+              "id": 752,
+              "name": "03 / Blocos compostos",
+              "type": "FRAME",
+              "width": 1440.0,
+              "x": 3080.0,
+              "y": 0.0
+            }
+          ],
+          "id": 632,
+          "name": "02 · Componentes reutilizáveis",
+          "type": "PAGE"
+        },
+        {
+          "background": "#1E1E1E",
+          "children": [
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 0.0
+              },
+              "childCount": 3,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 785,
+              "name": "13 · Projetos do Claude Code",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 0.0
+              },
+              "childCount": 3,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 790,
+              "name": "14 · Perfis de execução",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 980.0
+              },
+              "childCount": 3,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 795,
+              "name": "15 · Catálogo e README",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 980.0
+              },
+              "childCount": 3,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 800,
+              "name": "16 · Memórias e credenciais",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 980.0
+            }
+          ],
+          "id": 784,
+          "name": "03 · Evolução Claude Code",
+          "type": "PAGE"
+        },
+        {
+          "background": "#1E1E1E",
+          "children": [
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 0.0
+              },
+              "childCount": 2,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 828,
+              "name": "17 · Catálogo instalado e descoberta",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 0.0
+              },
+              "childCount": 1,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#1E1E1E",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 831,
+              "name": "18 · Modal de detalhes do item",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 980.0
+              },
+              "childCount": 1,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 834,
+              "name": "19 · Ficha gerada e revisão",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 980.0
+            }
+          ],
+          "id": 805,
+          "name": "04 · Catálogo CRUD e instalação",
+          "type": "PAGE"
+        }
+      ],
+      "path": "C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\Harness-Helper.figcraft",
+      "selection": [
+        864
+      ],
+      "styles": [],
+      "textEdit": null,
+      "variables": 23
+    }
+  }
+]

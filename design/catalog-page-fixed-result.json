@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "ok": true,
+    "result": [
+      {
+        "id": 828
+      },
+      {
+        "id": 829
+      },
+      {
+        "id": 830
+      },
+      {
+        "id": 831
+      },
+      {
+        "id": 832
+      },
+      {
+        "id": 833
+      },
+      {
+        "id": 834
+      },
+      {
+        "id": 835
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ok": true,
+    "result": {
+      "bytes": 97830,
+      "path": "C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\Harness-Helper.figcraft"
+    }
+  }
+]

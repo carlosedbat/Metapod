@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "ok": true,
+    "result": {
+      "cx": 680.0,
+      "cy": 440.0,
+      "zoom": 0.9235294117647059
+    }
+  },
+  {
+    "id": 2,
+    "ok": true,
+    "result": {
+      "colorProfile": "srgb",
+      "currentPage": 1,
+      "dirty": false,
+      "history": {
+        "redo": 0,
+        "undo": [
+          "Telas e fluxos Harness Helper",
+          "Rename page"
+        ]
+      },
+      "images": 0,
+      "name": "Harness Helper · Telas e fluxos",
+      "pages": [
+        {
+          "background": "#1E1E1E",
+          "children": [
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 0.0
+              },
+              "childCount": 11,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 2,
+              "name": "01 · Um projeto mais claro. Um agente mais útil.",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 0.0
+              },
+              "childCount": 9,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 68,
+              "name": "02 · Agentes, skills e instruções",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 0.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 130,
+              "name": "03 · Editar com intenção",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 0.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 980.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 197,
+              "name": "04 · Pense junto com o assistente",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 980.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 256,
+              "name": "05 · O que o assistente pode consultar",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 980.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 302,
+              "name": "06 · Revise antes de aplicar",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 980.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 1960.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 348,
+              "name": "07 · Plugins com origem e escopo claros",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 1960.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 1960.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 408,
+              "name": "08 · Confirme a operação do plugin",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 1960.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 1960.0
+              },
+              "childCount": 7,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 455,
+              "name": "09 · Ferramentas que resolvem um problema",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 1960.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 0.0,
+                "y": 2940.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 507,
+              "name": "10 · Pesquisa de ferramentas",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 0.0,
+              "y": 2940.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 1460.0,
+                "y": 2940.0
+              },
+              "childCount": 6,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#F3F5F7",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 553,
+              "name": "11 · Histórico e recuperação",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 1460.0,
+              "y": 2940.0
+            },
+            {
+              "absoluteBounds": {
+                "height": 880.0,
+                "width": 1360.0,
+                "x": 2920.0,
+                "y": 2940.0
+              },
+              "childCount": 16,
+              "clip": false,
+              "cornerRadius": 12.0,
+              "fills": [
+                {
+                  "color": "#142C36",
+                  "type": "solid"
+                }
+              ],
+              "height": 880.0,
+              "id": 597,
+              "name": "12 · Fluxos e estados",
+              "type": "FRAME",
+              "width": 1360.0,
+              "x": 2920.0,
+              "y": 2940.0
+            }
+          ],
+          "flows": [
+            {
+              "description": "",
+              "name": "Diagnosticar → revisar → aplicar",
+              "start": 2
+            },
+            {
+              "description": "",
+              "name": "Plugin → revisão → resultado",
+              "start": 348
+            }
+          ],
+          "id": 1,
+          "name": "01 · Produto / protótipo",
+          "type": "PAGE"
+        }
+      ],
+      "path": "C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\Harness-Helper.figcraft",
+      "selection": [
+        631
+      ],
+      "styles": [],
+      "textEdit": null,
+      "variables": 0
+    }
+  }
+]

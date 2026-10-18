@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metapod.Core", "src\Metapod.Core\Metapod.Core.csproj", "{D659B99D-1C9D-4526-889A-A1DB0BD3967D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metapod.Infrastructure", "src\Metapod.Infrastructure\Metapod.Infrastructure.csproj", "{C59CC551-969F-4F94-A13B-BB72A9E567DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metapod.Claude", "src\Metapod.Claude\Metapod.Claude.csproj", "{313D392A-71AF-44F5-B845-4A9089488AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metapod.Desktop", "src\Metapod.Desktop\Metapod.Desktop.csproj", "{397C14A3-D245-4934-BBAB-73E59C6FE570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D659B99D-1C9D-4526-889A-A1DB0BD3967D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D659B99D-1C9D-4526-889A-A1DB0BD3967D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D659B99D-1C9D-4526-889A-A1DB0BD3967D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D659B99D-1C9D-4526-889A-A1DB0BD3967D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59CC551-969F-4F94-A13B-BB72A9E567DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59CC551-969F-4F94-A13B-BB72A9E567DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59CC551-969F-4F94-A13B-BB72A9E567DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59CC551-969F-4F94-A13B-BB72A9E567DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313D392A-71AF-44F5-B845-4A9089488AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313D392A-71AF-44F5-B845-4A9089488AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313D392A-71AF-44F5-B845-4A9089488AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313D392A-71AF-44F5-B845-4A9089488AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397C14A3-D245-4934-BBAB-73E59C6FE570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397C14A3-D245-4934-BBAB-73E59C6FE570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397C14A3-D245-4934-BBAB-73E59C6FE570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397C14A3-D245-4934-BBAB-73E59C6FE570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

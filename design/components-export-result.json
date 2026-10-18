@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "ok": true,
+    "result": {
+      "bytes": 147876,
+      "format": "png",
+      "path": "C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\components-01.png"
+    }
+  },
+  {
+    "id": 2,
+    "ok": true,
+    "result": {
+      "bytes": 201083,
+      "format": "png",
+      "path": "C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\components-02.png"
+    }
+  },
+  {
+    "id": 3,
+    "ok": true,
+    "result": {
+      "bytes": 224490,
+      "format": "png",
+      "path": "C:\\Users\\eduar\\OneDrive\\Documents\\ONWORK\\HarnesHelper\\design\\components-03.png"
+    }
+  }
+]
